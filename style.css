@@ -49,6 +49,21 @@ h5{
     color:black;
     font-size: 150%;
 }
+h6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.mtavari{
+    border: solid #2ECC71;
+    background-color: #2ECC71;
+    width: 114px;
+    height:44px;
+    border-radius:4px;
+    letter-spacing: 4px;
+}
+
 .inline1{
     display: flex;
     align-items:center;
@@ -77,18 +92,14 @@ del{
     color: red;
     font-size: 80%;
 }
-button{
-    width:100px;
-    height: 40px;
-    color:white;
-    background-color: #2ECC71;
-    border-radius: 4px;
-    letter-spacing: 3px;
-}
+
 .inline3{
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-inline-start: 7%;
     margin-inline-end: 7%;
+}
+.mtavari:hover{
+    background:black;
 }
