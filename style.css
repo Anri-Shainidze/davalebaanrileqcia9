@@ -42,7 +42,7 @@ h1{
 }
 h3{
     color:#a5adbb;
-    font-size: small;
+    font-size: 100%;
 
 }
 h5{
@@ -83,6 +83,7 @@ button{
     color:white;
     background-color: #2ECC71;
     border-radius: 4px;
+    letter-spacing: 3px;
 }
 .inline3{
     display: flex;
