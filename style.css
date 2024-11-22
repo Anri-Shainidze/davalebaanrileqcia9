@@ -1,5 +1,10 @@
 body{
     background-color: #d8d8d8;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
 .container{
     display: flex;
@@ -35,6 +40,15 @@ h1{
     font-size: 20px;
         
 }
+h3{
+    color:#a5adbb;
+    font-size: small;
+
+}
+h5{
+    color:black;
+    font-size: 150%;
+}
 .inline1{
     display: flex;
     align-items:center;
@@ -52,3 +66,28 @@ p{
     justify-content: center;
 }
 
+.inline2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-inline-start: 7%;
+    margin-inline-end: 7%;
+}
+del{
+    color: red;
+    font-size: 80%;
+}
+button{
+    width:100px;
+    height: 40px;
+    color:white;
+    background-color: #2ECC71;
+    border-radius: 4px;
+}
+.inline3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-inline-start: 7%;
+    margin-inline-end: 7%;
+}
