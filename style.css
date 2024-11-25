@@ -73,6 +73,7 @@ h6{
     margin-top: 3%;
     
 }
+
 p{
     color:#6e798c;
     font-size: 100%;
@@ -80,7 +81,6 @@ p{
     align-items: center;
     justify-content: center;
 }
-
 .inline2{
     display: flex;
     align-items: center;
@@ -114,4 +114,10 @@ del{
 .image5{
     position: absolute;
     margin-left:20%
+}
+.forcenter{
+    width:90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
