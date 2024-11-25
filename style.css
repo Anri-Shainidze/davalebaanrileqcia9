@@ -115,9 +115,3 @@ del{
     position: absolute;
     margin-left:20%
 }
-.forcenter{
-    width:90%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
